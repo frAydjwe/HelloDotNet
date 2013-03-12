@@ -1,0 +1,7 @@
+C:\Users\Frédéric BARAILLON\Desktop\Development\epsi\EPSI Projects\CSII 2\CSharp\Atelier3\Atelier3\Atelier3\bin\Release\Atelier3.exe
+C:\Users\Frédéric BARAILLON\Desktop\Development\epsi\EPSI Projects\CSII 2\CSharp\Atelier3\Atelier3\Atelier3\bin\Release\Atelier3.pdb
+C:\Users\Frédéric BARAILLON\Desktop\Development\epsi\EPSI Projects\CSII 2\CSharp\Atelier3\Atelier3\Atelier3\bin\Release\ClassLibrary.dll
+C:\Users\Frédéric BARAILLON\Desktop\Development\epsi\EPSI Projects\CSII 2\CSharp\Atelier3\Atelier3\Atelier3\bin\Release\ClassLibrary.pdb
+C:\Users\Frédéric BARAILLON\Desktop\Development\epsi\EPSI Projects\CSII 2\CSharp\Atelier3\Atelier3\Atelier3\obj\x86\Release\Atelier3.csprojResolveAssemblyReference.cache
+C:\Users\Frédéric BARAILLON\Desktop\Development\epsi\EPSI Projects\CSII 2\CSharp\Atelier3\Atelier3\Atelier3\obj\x86\Release\Atelier3.exe
+C:\Users\Frédéric BARAILLON\Desktop\Development\epsi\EPSI Projects\CSII 2\CSharp\Atelier3\Atelier3\Atelier3\obj\x86\Release\Atelier3.pdb
